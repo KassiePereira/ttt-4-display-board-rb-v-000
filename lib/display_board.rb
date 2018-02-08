@@ -1,9 +1,4 @@
 # Define display_board that accepts a board and prints
 # out the current state.
-+def display_board
-+puts "   |   |   "
-+puts "-----------"
-+puts "   |   |   "
-+puts "-----------"
-+puts "   |   |   "
-+end
+board = ["Position 1", "Position 2", "Position 3", "Position 4", "Position 5", "Position 6", "Position 7", "Position 8", "Position 9"]
+board = [" ", " ", " ", " ", " ", " ", " "," ", " " ]
